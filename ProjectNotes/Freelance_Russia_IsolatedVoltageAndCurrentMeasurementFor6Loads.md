@@ -19,7 +19,7 @@ PCB, 3D
 - Date in February 2024
 
 ### My Tasks
-- Hardware Design 50%
-- PCB Design 100%
+- Hardware Design (50%)
+- PCB Design (100%)
 
 

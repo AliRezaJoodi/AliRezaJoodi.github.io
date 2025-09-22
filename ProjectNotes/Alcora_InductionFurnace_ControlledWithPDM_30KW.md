@@ -4,7 +4,7 @@
 Full View: v1.0  
 ![](https://s32.picofile.com/file/8477571292/Full1.jpg)
 
-### Feathres
+### Features
 - 3-Phase AC
 - Full-bridge with IGBT
 - Power controller with PDM
@@ -26,7 +26,7 @@ Note: The project design was by my colleague.
 - Electrical wiring
 - System testing
 - Commissioning support
-- Operated the system.
+- Operated the system
 
 ### More Pictures
 Inverter Panel: v1.0  
