@@ -1,6 +1,10 @@
-## Isolated Measurement of Current and Voltage for Induction Furnace
+## Isolated Current and Voltage Measurement for Induction Furnace
 
-Features:
+### Photo
+v1.2, PCB, 2D  
+![](https://s32.picofile.com/file/8478198792/v1_2_PCB_2D.png)
+
+### Features
 - Based on HCPL-7840
 - with SMD Package Components
 - Isolated Measurement of Inverter Current
@@ -8,12 +12,10 @@ Features:
 - Isolated Measurement of Coil Voltage
 - 2-Layer PCB
 
-Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-Work type was on-site
+### Project Details
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Work type was on-site
 
-My Tasks:  
+### My Tasks
 - Hardware Design (30%)
 - PCB Design (100%)
-
-### v1.2, PCB, 2D:
-![](https://s32.picofile.com/file/8478198792/v1_2_PCB_2D.png)

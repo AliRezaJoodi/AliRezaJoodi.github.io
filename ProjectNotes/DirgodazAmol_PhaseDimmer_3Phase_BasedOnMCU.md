@@ -1,6 +1,13 @@
 ## Phase Dimmer, 3-Phase, Based On AVR MCU
 
-Features:
+### Photo
+v1.0  
+![](https://s32.picofile.com/file/8477872042/v1_0.jpg)
+
+v1.1, PCB, 2D  
+![](https://s32.picofile.com/file/8477873342/v1_1_PCB_2D.png)
+
+### Features
 - ATmega32 Microcontroller
 - External Watchdog
 - Voltage Reference with LM336
@@ -10,14 +17,10 @@ Features:
 - SCR Gate Driver (3x)
 - 1-Layer PCB
 
-Note: It need to external Thyristor.
-
-Usable for:
-- 3-Phase Full Wave Rectifier with Half Controlled
-
-Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-Work type was on-site  
-Jun 2017 - Jul 2017  
+### Project Details
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Work type was on-site  
+- Date in Jun 2017 - Jul 2017  
 
 My Tasks:  
 - Hardware Design (100%)
@@ -25,12 +28,12 @@ My Tasks:
 - PCB Assembly (100%)
 - AVR Programming (100%)
 
-### v1.0:
-![](https://s32.picofile.com/file/8477872042/v1_0.jpg)
+### Application
+- 3-Phase Full Wave Rectifier with Half Controlled
 
-### v1.1, PCB, 2D:
-![](https://s32.picofile.com/file/8477873342/v1_1_PCB_2D.png)
+Note: It need to external Thyristor or Triac.
 
-### Electrical Circuit, 3-Phase Full Wave Rectifier with Half Controlled:
+### Guide
+Electrical Circuit, 3-Phase Full Wave Rectifier with Half Controlled  
 ![](https://s32.picofile.com/file/8477872018/C1.png)
 
