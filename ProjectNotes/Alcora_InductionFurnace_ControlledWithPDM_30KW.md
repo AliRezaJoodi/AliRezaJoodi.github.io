@@ -28,7 +28,7 @@ Note: The project design was by my colleague.
 - Commissioning support
 - Operated the system
 
-### More Pictures
+### More Photos
 Inverter Panel: v1.0  
 ![](https://s32.picofile.com/file/8477581334/InverterPanel_v1_0.jpg)
 

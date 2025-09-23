@@ -17,11 +17,11 @@ Full View: v1.0
 
 ### My Tasks
 - Hardware Design, PCB Design, and  PCB assembly of these boards:
-  - [IGBT Driver For Induction Furnace, Half Bridge, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_IgbtDriverForInductionFurnace_HalfBridge_BasedOnSKYPER32R.md)
-  - [Phase Dimmer, 1-Phase, Based on Analog](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_1Phase_BasedOnAnalog.md)
-  - [Phase Dimmer, 1-Phase, Based on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_1Phase_BasedOnMCU.md)
-  - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
-  - [Controller Board for Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
+  - [IGBT Driver For Induction Furnace, Half Bridge, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_IgbtDriverForInductionFurnace_HalfBridge_BasedOnSKYPER32R.md)
+  - [Phase Dimmer, 1-Phase, Based on Analog](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_PhaseDimmer_1Phase_BasedOnAnalog.md)
+  - [Phase Dimmer, 1-Phase, Based on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_PhaseDimmer_1Phase_BasedOnMCU.md)
+  - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
+  - [Controller Board for Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD
   - Capacitor packages
 - Panel integration

@@ -16,7 +16,7 @@ Full View: v1.0
 ### Project Details
 - Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 - Work type was on-site  
-- Oct 2020 - Nov 2020  
+- Date in Oct 2020 - Nov 2020  
  
 ### My Tasks
 - PCB design and home-made of new boards 
@@ -27,5 +27,8 @@ Full View: v1.0
 - Commissioning support
 
 ### More photo:
-![](https://s32.picofile.com/file/8477640300/FullView2_v1_0.jpg)  
+Full View: v1.0  
+![](https://s32.picofile.com/file/8477640300/FullView2_v1_0.jpg) 
+
+Inverter Panel: v1.0  
 ![](https://s32.picofile.com/file/8477640318/1.jpg)  

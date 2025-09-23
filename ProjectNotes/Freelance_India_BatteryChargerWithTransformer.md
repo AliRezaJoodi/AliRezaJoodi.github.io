@@ -18,7 +18,7 @@ The original project was based on the 8051 microcontroller, but we redesigned it
 - AVR programming (100%)
 - Consulting on manufacturing
 
-### More Pictures
+### More Photos
 Main Board and Display Board: v1.0  
 ![](https://s32.picofile.com/file/8477598350/MainBoard_DisplayBoard.png)
 
