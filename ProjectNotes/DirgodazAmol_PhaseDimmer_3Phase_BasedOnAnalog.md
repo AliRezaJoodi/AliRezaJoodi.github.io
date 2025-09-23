@@ -27,7 +27,7 @@ v1.1, PCB, 2D
 ### Application
 - 3-Phase Full Wave Rectifier with Half Controlled
 
-Note: It need to external Thyristor or Triac.
+Note: It needs to external Thyristor or Triac.
 
 ### Guide
 Electrical Circuit, 3-Phase Full Wave Rectifier with Half Controlled  

@@ -29,7 +29,7 @@ v2.1, PCB, 2D
 - 1-Phase Full Wave Rectifier with Half Controlled
 - 1-Phase Dimmer
 
-Note: It need to external Thyristor or Triac.
+Note: It needs to external Thyristor or Triac.
 
 ### Guide
 Electrical Circuit, 1-Phase Full Wave Rectifier with Half Controlled  
