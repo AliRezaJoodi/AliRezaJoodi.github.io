@@ -8,11 +8,12 @@ v3.3, PCB, 2D
 ![](https://s32.picofile.com/file/8478197142/v3_3_PCB_2D.png)
 
 ### Features
-- Based on HCPL-7840
-- with THD Package Components
-- Isolated Measurement of Inverter Current
-- Isolated Measurement of Inverter Voltage
-- Isolated Measurement of Coil Voltage
+- 3 isolated voltage channels with HCPL-7840
+- Inverter bus voltage measurement
+- Coil voltage measurement
+- Inverter current measurement using shunt
+- Using THD package components
+- 1-Layer PCB
 
 ### Project Details
 - Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  

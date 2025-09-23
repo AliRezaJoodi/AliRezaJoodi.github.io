@@ -5,11 +5,11 @@ v1.2, PCB, 2D
 ![](https://s32.picofile.com/file/8478198792/v1_2_PCB_2D.png)
 
 ### Features
-- Based on HCPL-7840
-- with SMD Package Components
-- Isolated Measurement of Inverter Current
-- Isolated Measurement of Inverter Voltage
-- Isolated Measurement of Coil Voltage
+- 3 isolated voltage channels with HCPL-7840
+- Inverter bus voltage measurement
+- Coil voltage measurement
+- Inverter current measurement using shunt
+- Using SMD package components
 - 2-Layer PCB
 
 ### Project Details
@@ -19,3 +19,4 @@ v1.2, PCB, 2D
 ### My Tasks
 - Hardware Design (30%)
 - PCB Design (100%)
+- PCB Assembly (100%)
