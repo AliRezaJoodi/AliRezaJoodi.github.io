@@ -10,7 +10,7 @@ Full View: v1.0
 - Power controller with PDM
 
 ### Project Details
-- Client from Alcora Start-up, Iran
+- Client from Alborz Amol Refractory Materials Industries, Iran.
 - Work type was on-site
 - Date in Oct 2023 - Dec 2023
 
