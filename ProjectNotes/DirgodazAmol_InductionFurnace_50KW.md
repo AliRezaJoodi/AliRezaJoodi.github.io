@@ -1,15 +1,20 @@
 ## Induction Furnace, 50KW 
 
-Feathres:
+### Photo
+Full View: v1.0  
+![](https://s32.picofile.com/file/8477705700/FullView_v1_0.jpg) 
+
+### Feathres
 - 3-Phase
 - Full-Bridge with IGBT
 - Power Controller with 3-Phase Full Wave Rectifier with Half Controlled
 
-Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-Work type was on-site  
-Jan 2017 - Jul 2018  
+### Project Details
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Work type was on-site  
+- Date in Jan 2017 - Jul 2018  
 
-My Tasks :
+### My Tasks
 - Hardware Design, PCB Design, and  PCB assembly of these boards:
   - [IGBT Driver For Induction Furnace, Full Bridge, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_IgbtDriverForInductionFurnace_FullBridge_BasedOnSKYPER32R.md)
   - [Phase Dimmer, 3-Phase, Based On Analog](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_3Phase_BasedOnAnalog.md)
@@ -21,15 +26,15 @@ My Tasks :
   - [Multiple Power Supply For Induction Furnaces](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PowerSupplyForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD
   - [Capacitor package](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md)
-- Electrical components installing
-- Wiring
+- Panel integration
+- Electrical wiring
+- System testing
+- Commissioning support
 
-### Video, v1.0:
+### Video
+v1.0  
 [A link on Youtube.com](https://www.youtube.com/watch?v=VnA-OOWKcfw) 
 
-### Full View, v1.0:
-![](https://s32.picofile.com/file/8477705700/FullView_v1_0.jpg) 
-
-### More photo:
+### More photo
 ![](https://s32.picofile.com/file/8477781150/p1.jpg)  
  

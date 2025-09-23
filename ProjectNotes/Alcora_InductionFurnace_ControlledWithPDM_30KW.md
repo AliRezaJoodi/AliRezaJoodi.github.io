@@ -1,6 +1,6 @@
 ## Induction Furnace, Controlled with PDM, 30KW
 
-### Pictures
+### Photo
 Full View: v1.0  
 ![](https://s32.picofile.com/file/8477571292/Full1.jpg)
 

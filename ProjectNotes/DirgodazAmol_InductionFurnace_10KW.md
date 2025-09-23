@@ -1,17 +1,21 @@
 ## Induction Furnace, 10KW
+Note: It was a prototype.
 
-Feathres:
+### Photo
+Full View: v1.0  
+![](https://s32.picofile.com/file/8477816792/FullView_v1_0.jpg) 
+
+### Feathres
 - 1-Phase
 - Half-Bridge with IGBT
 - Power Controller with 1-Phase Dimmer 
 
-Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-Work type was on-site  
-Jan 2017 - Jul 2017  
-  
-Note: It was a prototype.    
+### Project Details
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Work type was on-site  
+- Date in Jan 2017 - Jul 2017     
 
-My Tasks:
+### My Tasks
 - Hardware Design, PCB Design, and  PCB assembly of these boards:
   - [IGBT Driver For Induction Furnace, Half Bridge, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_IgbtDriverForInductionFurnace_HalfBridge_BasedOnSKYPER32R.md)
   - [Phase Dimmer, 1-Phase, Based on Analog](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_1Phase_BasedOnAnalog.md)
@@ -20,14 +24,14 @@ My Tasks:
   - [Controller Board for Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD
   - Capacitor packages
-- Electrical components installing 
-- Wiring
+- Panel integration
+- Electrical wiring
+- System testing
+- Commissioning support 
 
-### Video, v1.0:
+### Video
+v1.0  
 [A link on Youtube.com](https://www.youtube.com/watch?v=5HvjpDaDPMQ) 
-
-### Full View, v1.0:
-![](https://s32.picofile.com/file/8477816792/FullView_v1_0.jpg) 
 
 
  

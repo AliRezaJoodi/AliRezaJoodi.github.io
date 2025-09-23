@@ -1,4 +1,4 @@
-## Thermocouple Output Amplifier With Zero Offset
+## Thermocouple Output Amplifier with Zero Offset
 
 ### Pictures
 PCB, 2D  

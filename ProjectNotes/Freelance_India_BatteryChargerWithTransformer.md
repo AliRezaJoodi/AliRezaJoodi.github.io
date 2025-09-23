@@ -1,6 +1,6 @@
 ## Battery Charger with Transformer, 40V/30A
 
-### Pictures
+### Photo
 Original Device Panel:  
 ![](https://s32.picofile.com/file/8477598576/OriginalDevicePanel.png.png)
 
