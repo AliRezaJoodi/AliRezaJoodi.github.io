@@ -5,7 +5,7 @@ v1.2, PCB, 2D
 ![](https://s32.picofile.com/file/8478198792/v1_2_PCB_2D.png)
 
 ### Features
-- 3 isolated voltage channels with HCPL-7840
+- 3 isolated voltage channels using HCPL-7840
 - Inverter bus voltage measurement
 - Coil voltage measurement
 - Inverter current measurement using shunt
