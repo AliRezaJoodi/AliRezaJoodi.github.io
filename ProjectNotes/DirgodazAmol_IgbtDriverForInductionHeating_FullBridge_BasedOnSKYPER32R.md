@@ -1,4 +1,4 @@
-## Full Bridge IGBT Driver for Induction Furnace, Based on SKYPER32R Module
+## Full Bridge IGBT Driver for Induction Heating, Based on SKYPER32R Module
 
 ### Photos
 v3.0  

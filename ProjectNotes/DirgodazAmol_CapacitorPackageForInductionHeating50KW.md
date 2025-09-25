@@ -1,4 +1,4 @@
-## Capacitor Package for 50KW Induction Furnaces
+## Capacitor Package for 50KW Induction Heating
 
 ### Photo
 v1.0  

@@ -1,4 +1,4 @@
-## Isolated Current and Voltage Measurement for Induction Furnace (SMD)
+## Isolated Current and Voltage Measurement for Induction Heating (SMD)
 
 ### Photo
 v1.2, PCB, 2D  

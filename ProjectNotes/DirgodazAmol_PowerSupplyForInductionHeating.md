@@ -1,4 +1,4 @@
-## Multiple Power Supply for Induction Furnaces
+## Multiple Power Supply for Induction Heating
 
 ### Photo
 v1.1  

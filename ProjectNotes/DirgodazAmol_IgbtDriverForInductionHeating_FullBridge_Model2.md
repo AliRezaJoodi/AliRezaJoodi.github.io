@@ -1,4 +1,4 @@
-## Full Bridge IGBT Driver for Induction Furnace, Model 2
+## Full Bridge IGBT Driver for Induction Heating, Model 2
 
 ### Photos
 v2.0  

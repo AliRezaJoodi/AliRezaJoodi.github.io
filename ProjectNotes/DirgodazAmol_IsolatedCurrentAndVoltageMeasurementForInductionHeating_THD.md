@@ -1,4 +1,4 @@
-## Isolated Current and Voltage Measurement for Induction Furnace (THD)
+## Isolated Current and Voltage Measurement for Induction Heating (THD)
 
 ### Photos
 v3.3  

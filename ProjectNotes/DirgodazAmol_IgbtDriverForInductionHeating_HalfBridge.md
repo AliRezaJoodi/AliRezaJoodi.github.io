@@ -1,4 +1,4 @@
-## Half Bridge IGBT Driver for Induction Furnace
+## Half Bridge IGBT Driver for Induction Heating
 
 ### Photo
 v3.0  

@@ -1,15 +1,15 @@
-## Half Bridge IGBT Driver for Induction Furnace, Based on SKYPER32R Module
+## Controller Board for Induction Heating
 
 ### Photo
-v3.0  
-![](https://s32.picofile.com/file/8478476868/v3_0.jpg)
+v4.1  
+![](https://s32.picofile.com/file/8478124050/v4_1.jpg)
 
 ### Project Details
 - Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
 - Work type was on-site
 
-### My Tasks
-- Hardware Design (100%)
+My Tasks  
+- Hardware Design (50%)
 - PCB Design (100%)
 - PCB Assembly (100%)
-
+- AVR Programming (100%)

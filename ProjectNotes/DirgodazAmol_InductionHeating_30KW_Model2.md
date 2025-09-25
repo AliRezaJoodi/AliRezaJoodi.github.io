@@ -1,4 +1,4 @@
-## Induction Furnace, 30KW, Mode 2
+## Induction Heating, 30KW, Mode 2
 Note: It's a prototype.  
 Note: The display panel and the Controller board based on AVR MCU removed. 
 Note: Used of a Digital 3-Phase Voltmeter Ammete.  
