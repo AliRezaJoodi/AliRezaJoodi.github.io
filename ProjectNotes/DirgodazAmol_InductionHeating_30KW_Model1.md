@@ -1,12 +1,12 @@
 ## Induction Heating, 30KW, Model 1
 Note: It was a prototype.  
-Note: In this project, we did not design a new board. We remade all boards of the 50 KW induction furnace for for this model.  
+Note: In this project, we did not design a new board. We remade all boards of the 50KW induction heating for this model.  
 
 ### Photo
 Full View: v1.0  
 ![](https://s32.picofile.com/file/8477663926/FullView1.jpg) 
 
-### Feathres
+### Features
 - 3-Phase
 - Half-Bridge with IGBT
 
