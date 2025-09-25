@@ -1,4 +1,4 @@
-## Phase Dimmer, 1-Phase, Based On AVR MCU
+## Single-Phase Dimmer, Based on AVR MCU
 
 ### Photo
 v2.1, PCB, 2D  
@@ -8,16 +8,17 @@ v2.1, PCB, 2D
 - ATmega32 Microcontroller
 - External Watchdog
 - Voltage Reference with LM336
-- 4-20mA or 1~5V Analog Input 
+- 4-20mA or 1~5V Analog Input
 - Zero Crossing Detector
 - Dual Isolated Power Supply for SCR Drivers
 - SCR Gate Driver (2x)
+- Requires external Thyristor or Triac
 - 2-Layer PCB
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
-- Date in Sep 2017 - Oct 2017  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
+- Date in Sep 2017 - Oct 2017
 
 ### My Tasks   
 - Hardware Design (100%)
@@ -28,8 +29,6 @@ v2.1, PCB, 2D
 ### Application
 - 1-Phase Full Wave Rectifier with Half Controlled
 - 1-Phase Dimmer
-
-Note: It needs to external Thyristor or Triac.
 
 ### Guide
 Electrical Circuit, 1-Phase Full Wave Rectifier with Half Controlled  

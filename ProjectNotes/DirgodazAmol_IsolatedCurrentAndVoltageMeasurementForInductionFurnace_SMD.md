@@ -1,4 +1,4 @@
-## Isolated Current and Voltage Measurement for Induction Furnace
+## Isolated Current and Voltage Measurement for Induction Furnace (SMD)
 
 ### Photo
 v1.2, PCB, 2D  
@@ -13,7 +13,7 @@ v1.2, PCB, 2D
 - 2-Layer PCB
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
 - Work type was on-site
 
 ### My Tasks

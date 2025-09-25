@@ -5,8 +5,8 @@ v1.0
 ![](https://s32.picofile.com/file/8478342726/v1_0_1.jpg)
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
 
 ### My Tasks
 - PCB Design (100%)

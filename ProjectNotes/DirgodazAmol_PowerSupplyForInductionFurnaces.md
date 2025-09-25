@@ -1,4 +1,4 @@
-## Multiple Power Supply For Induction Furnaces
+## Multiple Power Supply for Induction Furnaces
 
 ### Photo
 v1.1  
@@ -10,7 +10,7 @@ v1.1
 - +12V Isolated Output with Flyback DC-DC Converter
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
 - Work type was on-site
 
 ### My Tasks

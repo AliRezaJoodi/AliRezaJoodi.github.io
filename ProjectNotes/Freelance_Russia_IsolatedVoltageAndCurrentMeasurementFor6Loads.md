@@ -8,8 +8,10 @@ PCB, 3D
 ![](https://s32.picofile.com/file/8477565242/v4_10_PCB_3D.png)
 
 ### Features
-- Isolated voltage measurement using HCPL-7840, 220V, 3 channels
-- Isolated current measurement using CT, 40A, 6 channels
+- 3 voltage channels for 220V
+- Isolated voltage measurement using HCPL-7840
+- 6 current channels for 40A
+- Isolated current measurement using CT
 - ADC using MAX11198 (16-bit resolution, 2Msps, SPI Interface)
 - 2-Layer PCB
 

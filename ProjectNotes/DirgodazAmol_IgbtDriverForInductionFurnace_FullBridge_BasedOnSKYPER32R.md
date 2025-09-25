@@ -1,4 +1,4 @@
-## IGBT Driver for Induction Furnace, Full Bridge, Based on SKYPER32R Module
+## Full Bridge IGBT Driver for Induction Furnace, Based on SKYPER32R Module
 
 ### Photos
 v3.0  
@@ -8,8 +8,8 @@ v3.0, Bottom
 ![](https://s32.picofile.com/file/8478476800/v3_0_Bottom.jpg)
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
 
 ### My Tasks
 - Hardware Design (100%)

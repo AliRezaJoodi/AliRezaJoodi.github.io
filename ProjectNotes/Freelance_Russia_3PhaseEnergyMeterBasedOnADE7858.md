@@ -9,7 +9,8 @@ PCB, 3D
 
 ### Features
 - Voltage measurement, 3-phase AC
-- Isolated current measurement using CT, 80A, 3 channels
+- 3 current channels for 80A
+- Isolated current measurement using CT
 - Isolated interfacing using ADuM140x ICs
 - 2-Layer PCB
 
@@ -19,5 +20,5 @@ PCB, 3D
 - Date in January 2024
 
 ### My Tasks 
-- Hardware design (100%)
+- Hardware design (50%)
 - PCB design (100%)

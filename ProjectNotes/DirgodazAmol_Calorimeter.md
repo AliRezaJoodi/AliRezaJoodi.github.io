@@ -1,9 +1,9 @@
 ## Calorimeter
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
-- Date in March 2020  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
+- Date in March 2020
 
 ### My Tasks  
 - Hardware Design (100%)

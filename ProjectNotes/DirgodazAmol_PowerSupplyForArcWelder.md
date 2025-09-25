@@ -1,4 +1,4 @@
-## Power Supply For ARC Welder
+## Power Supply for ARC Welder
 
 ### Photo
 Model 2: v1.0  
@@ -24,7 +24,7 @@ Model 1: v1.0, Bottom
 - External Diode Bridge
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
 - Work type was on-site
 
 ### My Tasks

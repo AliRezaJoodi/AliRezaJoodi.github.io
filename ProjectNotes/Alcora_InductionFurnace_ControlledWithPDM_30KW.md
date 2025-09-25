@@ -20,7 +20,7 @@ Note: The project design was by my colleague.
 - PCB Assembly
   - Pulse Generator Board
   - IGBT Driver Boards
-  - Capacitor packages
+  - Capacitor Packages
 - Heat sink & cooling design
 - Panel integration
 - Electrical wiring

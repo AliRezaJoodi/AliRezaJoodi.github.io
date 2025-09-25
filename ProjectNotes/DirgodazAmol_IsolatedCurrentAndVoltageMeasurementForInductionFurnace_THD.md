@@ -1,4 +1,4 @@
-## Isolated Current and Voltage Measurement for Induction Furnace
+## Isolated Current and Voltage Measurement for Induction Furnace (THD)
 
 ### Photos
 v3.3  
@@ -16,7 +16,7 @@ v3.3, PCB, 2D
 - 1-Layer PCB
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
 - Work type was on-site
 
 ### My Tasks 

@@ -1,14 +1,14 @@
 ## Modified Manual Gas Valve to 4-20 mA Control with DC Motor
-It designed and made for temperature controller in a gas furnace.
+Controlled the temperature of a 1000^C gas furnace without buying an expensive gas valve.
 
 ### Photo
 v1.1, PCB, 2D  
 ![](https://s32.picofile.com/file/8478046942/v1_1.png)
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
-- Date in September 2016  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
+- Date in September 2016
 
 ### My Tasks 
 - Hardware Design (80%)

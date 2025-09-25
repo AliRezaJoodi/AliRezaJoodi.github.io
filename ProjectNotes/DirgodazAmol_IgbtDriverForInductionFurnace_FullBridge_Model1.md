@@ -1,4 +1,4 @@
-## IGBT Driver for Induction Furnace, Full Bridge, Model 1
+## Full Bridge IGBT Driver for Induction Furnace, Model 1
 
 ### Photo
 v1.0  
@@ -10,8 +10,8 @@ v1.0
 - 2-Layer PCB
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
 
 ### My Tasks
 - Hardware Design (25%)

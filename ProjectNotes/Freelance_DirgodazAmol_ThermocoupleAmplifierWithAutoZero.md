@@ -8,8 +8,8 @@ PCB, 3D
 ![](https://s32.picofile.com/file/8477570192/v1_1_PCB_3D.png)
 
 ### Features
-- Auto-Zero Offset Cancellation
-- 2-Layer PCB Design
+- Auto-Zero offset cancellation
+- 2-Layer PCB design
 
 ### Project Details
 - Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
@@ -17,6 +17,6 @@ PCB, 3D
 - Date in March 2024
 
 ### My Tasks
-- Hardware Design (50%)
-- PCB Design (100%)
+- Hardware design (50%)
+- PCB design (100%)
 

@@ -1,5 +1,4 @@
-## Phase Dimmer, 1-Phase, Based on Analog
-Note: It need to external Thyristor or Triac.
+## Single-Phase Dimmer, Based on Analog
 
 ### Photo
 v1.0  
@@ -9,16 +8,17 @@ v1.0, PCB, 2D
 ![](https://s32.picofile.com/file/8477970534/v1_0_PCB_2D.png)
 
 ### Features
-- 4-20mA or 1-5V Analog Input 
+- 4-20mA or 1-5V Analog Input
 - Zero Crossing Detector
 - Dual Isolated Power Supply for SCR Drivers
 - SCR Gate Driver (2x)
+- Requires external Thyristor or Triac
 - 1-Layer PCB
 
 ### Project Details
-- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-- Work type was on-site  
-- Date in Aug 2016 - Sep 2016  
+- Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
+- Work type was on-site
+- Date in Aug 2016 - Sep 2016
 
 ### My Tasks 
 - PCB Design (100%)
@@ -27,8 +27,6 @@ v1.0, PCB, 2D
 ### Application
 - 1-Phase Full Wave Rectifier with Half Controlled
 - 1-Phase Dimmer
-
-Note: It needs to external Thyristor or Triac.
 
 ### Guide
 Electrical Circuit, 1-Phase Full Wave Rectifier with Half Controlled  
