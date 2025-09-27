@@ -13,9 +13,7 @@ Full View: v1.0
 - Client from Alborz Amol Refractory Materials Industries, Iran.
 - Work type was on-site
 - Date in Oct 2023 - Dec 2023
-
-Note: The project design was by my colleague.  
-
+ 
 ### My Tasks
 - PCB Assembly
   - Pulse Generator Board
@@ -27,6 +25,8 @@ Note: The project design was by my colleague.
 - System testing
 - Commissioning support
 - Operated the system
+
+Note: The project design was by my colleague. 
 
 ### More Photos
 Inverter Panel: v1.0  

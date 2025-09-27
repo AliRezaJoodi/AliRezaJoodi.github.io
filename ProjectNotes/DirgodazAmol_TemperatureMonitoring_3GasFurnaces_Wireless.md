@@ -1,7 +1,7 @@
 ## Wireless Temperature Monitoring for 3 Gas Furnaces with Graphs in LabVIEW
    
 The system consists of 3 transmitter boards and 1 receiver board.  
-Each transmitter is installed on a separate rotating gas furnace.  
+Each transmitter is installed on a separate gas furnace.  
 The receiver is connected to the PC and sends the collected data to LabVIEW for display and analysis.  
 The devices communicate wirelessly in a mesh network using NRF24L01 modules.  
 
@@ -27,6 +27,7 @@ Receiver: v1.1
 ### Project Details
 - Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
 - Work type was on-site.
+- Date in Apr 2020 - May 2020
 
 ### My Tasks
 - Hardware Design (100%)
