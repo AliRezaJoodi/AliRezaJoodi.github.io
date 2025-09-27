@@ -17,10 +17,10 @@ Full View: v1.0
 
 ### My Tasks
 - PCB assembly of these boards
-  - [Half Bridge IGBT Driver for Induction Heating, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_IgbtDriverForInductionHeating_HalfBridge_BasedOnSKYPER32R.md)
+  - [Half Bridge IGBT Driver for Induction Heating, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_IgbtDriver_HalfBridge_BasedOnSKYPER32R.md)
   - [3-Phase Dimmer, Based on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_PhaseDimmer_3Phase_BasedOnAVR.md)
   - [12V/5A Full-Bridge DC Motor Driver, Based on MOSFETs with Isolated Input](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
-  - [Isolated Current and Voltage Measurement for Induction Heating](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_IsolatedCurrentAndVoltageMeasurementForInductionHeating_THD.md)
+  - [Isolated Current and Voltage Measurement for Induction Heating](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_IsolatedCurrentAndVoltageMeasurement_THD.md)
   - [Multiple Power Supply for Induction Heating](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_PowerSupplyForInductionHeating.md)
   - [Controller Board for Induction Heating Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/ProjectNotes/DirgodazAmol_ControllerBoardForInductionHeating.md)
   - Display Panel using 20×4 Character LCD
