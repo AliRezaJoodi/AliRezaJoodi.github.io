@@ -20,6 +20,7 @@
 [Robot Emil](https://www.youtube.com/@robotemil5894/videos) <br />
 
 ## Projects List
+[Hesam Moshiri](https://www.powerelectronicsnews.com/author/hesam-moshiri/)
 [Digital AC Energy Measurement](https://www.pcbway.com/blog/technology/Digital_AC_Energy_Measurement_Circuit_V2_RMS_Voltage_RMS_Current_Real_Power_P_a1bf4da8.html) <br />
 [Full SINE Inverter PCB at 230V and 50Hz](https://www.youtube.com/watch?v=xPGtNmJEmCs) <br />
 [Full SINE Inverter PCB at 230V and 50Hz](https://www.pcbway.com/project/shareproject/FULL_SINE_INVERTER_500W_9f4e6ded.html) <br />
