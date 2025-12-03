@@ -2,10 +2,10 @@
 
 ### Pictures
 PCB, 2D  
-![](https://s32.picofile.com/file/8477570184/v1_1_PCB_2D.png)
+![](v1.1_PCB_2D.jpg)
 
 PCB, 3D  
-![](https://s32.picofile.com/file/8477570192/v1_1_PCB_3D.png)
+![](v1.1_PCB_3D.jpg)
 
 ### Features
 - Auto-Zero offset cancellation
