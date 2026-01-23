@@ -3,7 +3,7 @@ Controlled the temperature of a 1000^C gas furnace without buying an expensive g
 
 ### Photo
 v1.1, PCB, 2D  
-![](https://s32.picofile.com/file/8478046942/v1_1.png)
+![](v1.1.png)
 
 ### Project Details
 - Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)
