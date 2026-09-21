@@ -188,94 +188,6 @@ h1.name .experience {
   margin: 0;
 }
 
-/* ---------- filter bar ---------- */
-.filterbar {
-  position: sticky;
-  top: calc(var(--header-h) + var(--safe-top));
-  z-index: 35;
-  margin-top: 0;
-}
-.filterbar-slide {
-  background: color-mix(in srgb, var(--bg) 90%, transparent);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  border-bottom: 1px solid var(--line-soft);
-  padding: 14px 0 12px;
-  transform: translateY(0);
-  transition: transform 0.28s var(--ease);
-}
-.filterbar.is-hidden .filterbar-slide {
-  transform: translateY(calc(-100% - var(--header-h) - var(--safe-top)));
-  pointer-events: none;
-}
-.filterbar.is-search-only { top: 0; }
-.filterbar.is-search-only .filterbar-slide {
-  padding-top: calc(10px + var(--safe-top));
-  transform: translateY(0);
-  pointer-events: none;
-}
-.filterbar.is-search-only .categories-panel {
-  pointer-events: auto;
-}
-
-.filterbar-inner {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.cat-label {
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--ink-soft);
-  letter-spacing: 0.01em;
-}
-
-.categories-panel {
-  display: grid;
-  grid-template-rows: 1fr;
-}
-.categories-panel.is-open { grid-template-rows: 1fr; }
-.categories-panel-inner { overflow: hidden; min-height: 0; }
-
-.categories-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  padding: 12px 0 4px;
-}
-
-.cat-chip {
-  display: inline-flex;
-  align-items: center;
-  padding: 7px 12px;
-  background: var(--paper);
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  font-size: 12.5px;
-  font-weight: 500;
-  color: var(--ink-soft);
-  cursor: pointer;
-  transition: border-color .15s ease, background .15s ease, color .15s ease;
-  font-family: inherit;
-}
-.cat-chip:hover {
-  border-color: var(--ink-soft);
-  color: var(--ink);
-}
-.cat-chip.is-active {
-  background: var(--paper-inset);
-  border-color: var(--ink-soft);
-  color: var(--ink);
-}
-.cat-chip.is-active:hover {
-  background: var(--paper-inset);
-  border-color: var(--ink);
-  color: var(--ink);
-}
-
-.result-count { display: none; }
-
 /* ---------- grid ---------- */
 .grid {
   display: grid;
@@ -428,12 +340,6 @@ h1.name .experience {
   padding: 4px 9px;
   font-weight: 500;
 }
-.info-badge-cat {
-  color: var(--ink-faint);
-  background: transparent;
-  border: 1px dashed var(--line);
-  font-weight: 400;
-}
 
 .card-variants {
   display: flex;
@@ -497,7 +403,5 @@ h1.name .experience {
   .role-line { font-size: 0.95rem; }
   .card-title { font-size: 15px; }
   .card-detail { font-size: 13px; }
-  .cat-chip { font-size: 12px; padding: 6px 10px; }
   .contact-icons a { width: 36px; height: 36px; }
-  .filterbar-slide { padding: 10px 0; }
 }

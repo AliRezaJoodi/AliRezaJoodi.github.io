@@ -4,7 +4,7 @@
  * HOW TO ADD A NEW POST:
  * 1. Copy the TEMPLATE object below.
  * 2. Paste it at the TOP of the PROJECT_DATA array (newest first).
- * 3. Fill in title, url, image, details, client, workType, category, etc.
+ * 3. Fill in title, url, image, details, client, workType, etc.
  * 4. Save this file and refresh the page.
  *
  * TEMPLATE:
@@ -17,12 +17,10 @@
  *   "client": "Personal",
  *   "clientUrl": "",
  *   "workType": "Self-Initiated",
- *   "tasks": ["My Tasks: 100%"],
- *   "category": "Power Electronics"
+ *   "tasks": ["My Tasks: 100%"]
  * }
  *
  * workType: "Self-Initiated" | "Remote" | "On-Site" | "On-site"
- * category: any existing category string (or a new one — it appears automatically)
  */
 window.PROJECT_DATA = [
   {
@@ -42,7 +40,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "C Library"
   },
   {
     "title": "Simulation DC-DC converter in LTspice to Exercise",
@@ -157,7 +154,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 50% | PCB Design 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Isolated Voltage and Current Measurement for 6 Loads",
@@ -178,7 +174,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 50% | PCB Design 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "3-Phase Energy Meter Based on ADE7858",
@@ -198,7 +193,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 50% | PCB Design 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Induction Heating, Controlled with PDM, 30KW",
@@ -216,7 +210,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Implementation"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Single-Phase Dimmer with Zero-Crossing Synchronized PWM, Based On AVR MCU",
@@ -232,7 +225,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "Battery Charger with Transformer, 40V/30A",
@@ -248,7 +240,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 20% | AVR Programming 100%"
     ],
-     "category": "Phase Control",
   },
   {
     "title": "Soft-Start with Protection for ARC Welder",
@@ -277,7 +268,6 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [],
-    "category": "Induction Heating"
   },
   {
     "title": "Induction Heating, 30KW, Mode1",
@@ -293,7 +283,6 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [],
-    "category": "Induction Heating"
   },
   {
     "title": "Induction Heating, 50KW",
@@ -309,7 +298,6 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [],
-    "category": "Induction Heating"
   },
   {
     "title": "Induction Heating, 10KW",
@@ -325,7 +313,6 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [],
-    "category": "Induction Heating"
   },
   {
     "title": "Wireless Temperature Monitoring for 3 Gas Furnaces with Graphs in LabVIEW",
@@ -342,7 +329,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 100% | PCB Design 100% | AVR Programming 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Full Bridge IGBT Driver for Induction Heating, Model 2",
@@ -359,7 +345,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 25% | PCB Design 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Full Bridge IGBT Driver for Induction Heating, Model 1",
@@ -376,7 +361,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 25% | PCB Design 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Half Bridge IGBT Driver for Induction Heating",
@@ -392,7 +376,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 25% | PCB Design 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Full Bridge IGBT Driver for Induction Heating Based on SKYPER32R Module",
@@ -409,7 +392,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Half Bridge IGBT Driver for Induction Heating Based on SKYPER32R Module",
@@ -426,7 +408,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Isolated Current and Voltage Measurement for Induction Heating (SMD)",
@@ -447,7 +428,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 30% | PCB Design 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Isolated Current and Voltage Measurement for Induction Heating (THD)",
@@ -468,7 +448,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 30% | PCB Design 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Controller Board for Induction Heating",
@@ -484,7 +463,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 50% | PCB Design 100% | AVR Programming 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Multiple Power Supply for Induction Heating",
@@ -502,7 +480,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "12V/5A Full-Bridge DC Motor Driver, Based on MOSFETs with Isolated Input",
@@ -520,7 +497,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 50% | PCB Design 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "Single-Phase Dimmer, Based on AVR MCU",
@@ -544,7 +520,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "3-Phase Dimmer, Half-Controlled Full-Wave Rectifier, Based on AVR MCU",
@@ -568,7 +543,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "AVR Training Board Exclusive for Dimmer",
@@ -598,7 +572,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "3-Phase Dimmer, Half-Controlled Full-Wave Rectifier, Based on Analog",
@@ -619,7 +592,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: PCB Design 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "Single-Phase Dimmer, Based on Analog",
@@ -640,7 +612,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: PCB Design 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "Capacitor Package for 50KW Induction Heating",
@@ -656,7 +627,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Induction Heating"
   },
   {
     "title": "Modified Manual Gas Valve to 4-20 mA Control with DC Motor",
@@ -672,7 +642,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 80% | PCB Design 100% | AVR Programming 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "Humidity to 4-20mA Conversion",
@@ -689,7 +658,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Gas Detector and Temperature with Dial",
@@ -706,7 +674,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Gas Detector, 2-Zone with Relay",
@@ -723,7 +690,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature and Humidity Controller, 4 Relay Outputs, Bluetooth Computer Monitoring",
@@ -740,7 +706,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature and Humidity Controller, 4 Relay Outputs, Wireless Sensor With RF",
@@ -757,7 +722,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature and Humidity Controller, 4 Relay Outputs",
@@ -774,7 +738,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller and Gas Detector, 2 Relay Outputs, Computer Monitoring",
@@ -791,7 +754,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller, 2 Relay Outputs, Computer Monitoring, USB",
@@ -808,7 +770,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller, 2 Relay Outputs, Computer Monitoring, RS232",
@@ -905,7 +866,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Relay Remote Controller, RF, Bluetooth, 8CH",
@@ -922,7 +882,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Relay Remote Controller, RF, FSK, 4CH",
@@ -939,7 +898,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Relay Remote Controller, IR, 14CH",
@@ -956,7 +914,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Relay Remote Controller, IR, 8CH",
@@ -973,7 +930,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Relay Remote Controller, IR, 4CH",
@@ -990,7 +946,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Relay Remote Controller, IR, 4CH",
@@ -1007,7 +962,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "1CH Relay Controller with Laser Pointer",
@@ -1024,7 +978,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "16CH Flashing Light with Triacs",
@@ -1041,7 +994,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Phase Control"
   },
   {
     "title": "USBASP Programmer",
@@ -1090,7 +1042,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Digital Meter with SRF02 Ultrasonic Module",
@@ -1107,7 +1058,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Code Lock with RFID",
@@ -1252,7 +1202,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Wireless Communication with RF from Computer to MCU",
@@ -1269,7 +1218,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Wireless Communication with RF from MCU to Computer",
@@ -1286,7 +1234,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "Wireless Communication with RF from MCU to MCU",
@@ -1303,7 +1250,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Remote Control"
   },
   {
     "title": "AVR Training Board Exclusive for IR Remote",
@@ -1336,7 +1282,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "4-Channel Servo Motor Controller, Computer Controlled, USB Interface",
@@ -1353,7 +1298,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "Single Stepper Motor Driver, Computer Controlled, USB",
@@ -1370,7 +1314,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "Single Stepper Motor Driver, Computer Controlled, RS232",
@@ -1387,7 +1330,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "Single Stepper Motor Driver, Manually Controlled",
@@ -1404,7 +1346,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "Line Follower Robot",
@@ -1421,7 +1362,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "DC Motor Driver, No Feedback, Remote Controlled, Bluetooth Interface",
@@ -1438,7 +1378,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "DC Motor Driver, Speed and Direction Controller with Computer, USB Interface",
@@ -1455,7 +1394,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "DC Motor Driver, No Feedback, Remote Controlled, ASK RF Module",
@@ -1472,7 +1410,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "DC Motor Driver, Speed Controller with Feedback, RS232, MATLAB",
@@ -1489,7 +1426,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "DC Motor Driver, Manually Controlled, Driver Based on MOSFET",
@@ -1506,7 +1442,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "DC Motor Driver, Manually Controlled, Driver Based on L298",
@@ -1523,7 +1458,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Motor Control"
   },
   {
     "title": "Display with 8x24 LED",

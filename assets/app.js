@@ -24,42 +24,23 @@
     try { localStorage.setItem('aj-theme', next); } catch (e) {}
   });
 
-  /* ---------- hide on scroll down / smart show on up ---------- */
+  /* ---------- hide on scroll down / show on up ---------- */
   var topbar = document.getElementById('topbar');
-  var filterbar = document.getElementById('filterbar');
   var topSpacer = document.getElementById('topSpacer');
   var lastScroll = 0;
   var ticking = false;
   var hideThreshold = 80;
-
-  function isMobile() {
-    return window.matchMedia('(max-width: 640px)').matches;
-  }
 
   function onScroll() {
     var y = window.scrollY || window.pageYOffset;
     var goingDown = y > lastScroll;
 
     if (y < 24) {
-      // at top: show header, search sits in normal flow after hero
       topbar.classList.remove('is-hidden');
-      filterbar.classList.remove('is-hidden');
-      filterbar.classList.remove('is-search-only');
     } else if (goingDown && y > hideThreshold) {
       topbar.classList.add('is-hidden');
-      filterbar.classList.add('is-hidden');
-      filterbar.classList.remove('is-search-only');
     } else {
-      // scrolling up
-      if (isMobile()) {
-        topbar.classList.add('is-hidden');
-        filterbar.classList.remove('is-hidden');
-        filterbar.classList.add('is-search-only');
-      } else {
-        topbar.classList.remove('is-hidden');
-        filterbar.classList.remove('is-hidden');
-        filterbar.classList.remove('is-search-only');
-      }
+      topbar.classList.remove('is-hidden');
     }
 
     lastScroll = y <= 0 ? 0 : y;
@@ -72,47 +53,6 @@
       ticking = true;
     }
   }, { passive: true });
-
-  /* ---------- categories ---------- */
-  var categories = [];
-  var catSet = {};
-  DATA.forEach(function (p) {
-    if (p.category && !catSet[p.category]) {
-      catSet[p.category] = true;
-      categories.push(p.category);
-    }
-  });
-  var preferredOrder = ["C Library", "Induction Heating", "Phase Control"];
-  categories.sort(function (a, b) {
-    var ia = preferredOrder.indexOf(a);
-    var ib = preferredOrder.indexOf(b);
-    if (ia >= 0 && ib >= 0) return ia - ib;
-    if (ia >= 0) return -1;
-    if (ib >= 0) return 1;
-    return a.localeCompare(b);
-  });
-
-  var activeCategory = '';
-  var catList = document.getElementById('categoriesList');
-
-  function buildCategoryChips() {
-    var html = '<button type="button" class="cat-chip' + (activeCategory === '' ? ' is-active' : '') + '" data-cat="">All</button>';
-    categories.forEach(function (c) {
-      html += '<button type="button" class="cat-chip' + (activeCategory === c ? ' is-active' : '') + '" data-cat="' + esc(c) + '">' + esc(c) + '</button>';
-    });
-    catList.innerHTML = html;
-  }
-
-  // One listener for all chips (faster than rebinding every click)
-  catList.addEventListener('click', function (e) {
-    var btn = e.target.closest('.cat-chip');
-    if (!btn) return;
-    activeCategory = btn.getAttribute('data-cat') || '';
-    catList.querySelectorAll('.cat-chip').forEach(function (chip) {
-      chip.classList.toggle('is-active', (chip.getAttribute('data-cat') || '') === activeCategory);
-    });
-    render();
-  });
 
   function updateSpacer() {
     topSpacer.style.height = topbar.offsetHeight + 'px';
@@ -152,9 +92,6 @@
       infoBadges += p.tasks.map(function (t) {
         return '<span class="info-badge">' + esc(t) + '</span>';
       }).join('');
-    }
-    if (p.category) {
-      infoBadges += '<span class="info-badge info-badge-cat">' + esc(p.category) + '</span>';
     }
 
     var imgLink = p.url
@@ -223,17 +160,11 @@
   }
 
   function render() {
-    var filtered = DATA.filter(function (p) {
-      return !activeCategory || p.category === activeCategory;
-    });
-    gridEl.innerHTML = filtered.length
-      ? filtered.map(cardHTML).join('')
-      : '<div class="empty-state">No builds in this category.</div>';
+    gridEl.innerHTML = DATA.map(cardHTML).join('');
     wireImages();
     wireCardReveal();
   }
 
-  buildCategoryChips();
   render();
   updateSpacer();
   window.addEventListener('resize', updateSpacer);
