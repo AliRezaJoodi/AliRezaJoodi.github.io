@@ -96,7 +96,7 @@ h1, h2, h3 { margin: 0; }
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 14px;
+  font-size: 1rem;
   font-weight: 600;
   letter-spacing: -0.01em;
   text-decoration: none;
@@ -165,7 +165,7 @@ h1, h2, h3 { margin: 0; }
 }
 
 h1.name {
-  font-size: clamp(1.6rem, 3.4vw, 2rem);
+  font-size: clamp(1.4rem, 3.2vw, 1.8rem);
   font-weight: 600;
   line-height: 1.25;
   letter-spacing: -0.02em;
@@ -174,7 +174,7 @@ h1.name {
 }
 
 h1.name .experience {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 500;
   color: var(--oss);
   letter-spacing: 0.01em;
@@ -491,7 +491,9 @@ h1.name .experience {
 @media (max-width: 640px) {
   body { font-size: 15px; }
   .hero { padding: 22px 0 18px; }
-  h1.name { font-size: 1.45rem; }
+  .mark { font-size: 0.95rem; }
+  h1.name .experience { font-size: 0.95rem; }
+  h1.name { font-size: 1.3rem; }
   .role-line { font-size: 0.95rem; }
   .card-title { font-size: 15px; }
   .card-detail { font-size: 13px; }
