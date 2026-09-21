@@ -827,7 +827,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller, 2 Relay Outputs",
@@ -844,7 +843,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller, 1 Relay Output, Computer Monitoring, USB",
@@ -878,7 +876,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller, 1 Relay Output",
@@ -895,7 +892,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Relay Remote Controller, DTMF, 8CH",
@@ -1195,7 +1191,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Calculator with TouchScreen, Thermometer with LM35 Sensor",
