@@ -1,4 +1,4 @@
-## Power Supply for ARC Welder
+## Soft-Start with Protection for ARC Welder
 
 ### Photo
 Model 2: v1.0  
@@ -9,12 +9,6 @@ Model 1: v1.0
 
 Model 1: v1.0, Bottom  
 ![](Model1_v1.0_Bottom.jpg)
-
-### Features for Model 1:
-- Soft Start
-- IGBT Pulse Disconnect Protection
-- Internal Capacitors
-- External Diode Bridge
 
 ### Features for Model 2:
 - Soft Start
