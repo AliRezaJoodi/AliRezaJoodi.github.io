@@ -125,7 +125,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Power Electronics"
   },
   {
     "title": "220V AC Voltage Protection",
@@ -249,7 +248,7 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 20% | AVR Programming 100%"
     ],
-    "category": "Power Electronics"
+     "category": "Phase Control",
   },
   {
     "title": "Soft-Start with Protection for ARC Welder",
@@ -263,7 +262,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: Hardware Design 90% | PCB Design 100%"
     ],
-    "category": "Power Electronics"
   },
   {
     "title": "Induction Heating, 30KW, Mode2",
@@ -859,7 +857,6 @@ window.PROJECT_DATA = [
     "tasks": [
       "My Tasks: 100%"
     ],
-    "category": "Measurement & Monitoring"
   },
   {
     "title": "Temperature Controller, 1 Relay Output, Computer Monitoring, RS232",

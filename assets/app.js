@@ -82,7 +82,15 @@
       categories.push(p.category);
     }
   });
-  categories.sort();
+  var preferredOrder = ["C Library", "Induction Heating", "Phase Control"];
+  categories.sort(function (a, b) {
+    var ia = preferredOrder.indexOf(a);
+    var ib = preferredOrder.indexOf(b);
+    if (ia >= 0 && ib >= 0) return ia - ib;
+    if (ia >= 0) return -1;
+    if (ib >= 0) return 1;
+    return a.localeCompare(b);
+  });
 
   var activeCategory = '';
   var catList = document.getElementById('categoriesList');
