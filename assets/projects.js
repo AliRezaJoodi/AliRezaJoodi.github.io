@@ -24,14 +24,14 @@
  */
 window.PROJECT_DATA = [
   {
-    "title": "Reusable Embedded C Libraries",
+    "title": "Portable embedded C libraries with a layered design",
     "url": "https://github.com/AliRezaJoodi/CrossPlatformLibraries",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/CrossPlatformLibraries.png",
     "details": [
-      "Open-source portable embedded C libraries designed for reusable firmware development, including hardware drivers, processing modules, and utilities for microcontroller-based systems.",
-      "Drivers: max6675(TC, K-Type) | qei(Quadrature Encoder) | tm1637(Display) | tm1638(Display) | mcp4822(SPI DAC) | mcp320x(SPI ADC) | mcp413x_426x(SPI Digital POT) | mcp42xxx(SPI Digital POT) | keypad4x4(GPIO) | seg7_driver(GPIO) | button(GPIO, Non-Blocking) | buzzer(GPIO, Non-Blocking)",
-      "Modules: thermocouple_k | ntc10k | ntc100k | controller_pid | controller_onoff | average | changed | seg7_encoder | seg7_font | calendar_converter | adc_converter | dac_converter | temperature_converter",
-      "Utils: timebase | crc8 | ctz | array | bit_register | bit_value | byte | math_shift"
+      "**drivers/**                        generic, written once\n**modules/**                        PID, on/off, average, converters\n**utils/**                          bit, ctz, crc8, timebase",
+      "**platforms/avr8/peripherals/**     MCU peripheral drivers\n**platforms/avr8/ports/**           MCU mapping for each driver",
+      "**platforms/stm32f1/peripherals/**  MCU peripheral drivers\n**platforms/stm32f1/ports/**        MCU mapping for each driver",
+      "**platforms/stm32f4/peripherals/**  MCU peripheral drivers\n**platforms/stm32f4/ports/**        MCU mapping for each driver"
     ],
     "extraLinks": [],
     "client": "Personal",
@@ -208,7 +208,7 @@ window.PROJECT_DATA = [
     "clientUrl": "",
     "workType": "On-site",
     "tasks": [
-      "My Tasks: Implementation"
+      "My Tasks: Parts Preparation | Build | Wiring"
     ],
   },
   {

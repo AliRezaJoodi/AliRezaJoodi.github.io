@@ -63,8 +63,14 @@
     return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
+  function escPre(s) {
+    return (s || '').replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  }
+
   function cardHTML(p) {
-    var detailHtml = (p.details || []).slice(0, 4).map(function (d) { return '<p>' + esc(d) + '</p>'; }).join('');
+    var detailHtml = (p.details || []).slice(0, 4).map(function (d) {
+      return d.indexOf('\n') >= 0 ? '<p class="card-detail-pre">' + escPre(esc(d)) + '</p>' : '<p>' + esc(d) + '</p>';
+    }).join('');
     var titleInner = esc(p.title);
     var isOpenSource = p.workType === 'Self-Initiated';
     var ossTag = isOpenSource ? '<span class="card-title-oss">(Open-Source)</span>' : '';
@@ -75,7 +81,11 @@
     var linksBlock = '';
     if (p.extraLinks && p.extraLinks.length) {
       var items = p.extraLinks.map(function (l) {
-        return '<a href="' + esc(l.href) + '" target="_blank" rel="noopener">' + esc(l.text) + '</a>';
+        var label = esc(l.text);
+        var sp = label.indexOf(' ');
+        var first = sp >= 0 ? label.slice(0, sp) : label;
+        var rest = sp >= 0 ? label.slice(sp) : '';
+        return '<a href="' + esc(l.href) + '" target="_blank" rel="noopener"><strong>' + first + '</strong>' + rest + '</a>';
       }).join('');
       linksBlock = '<div class="card-variants">' + items + '</div>';
     }

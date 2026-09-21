@@ -321,6 +321,12 @@ h1.name .experience {
 }
 .card-detail p { margin: 0 0 4px; }
 .card-detail p:last-child { margin-bottom: 0; }
+.card-detail-pre {
+  white-space: pre;
+  font-family: 'Consolas', 'SFMono-Regular', monospace;
+  font-size: 12.5px;
+  line-height: 1.55;
+}
 
 .card-info {
   display: flex;
