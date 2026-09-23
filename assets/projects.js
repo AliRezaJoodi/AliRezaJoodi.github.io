@@ -294,13 +294,16 @@ window.PROJECT_DATA = [
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_10KW/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_10KW/Album.jpg",
     "details": [
-      "Power Controller with Phase Dimmer"
+      "Power Controller with Phase Dimmer",
+      "Note: Power topology and pulse-control design done by my colleague"
     ],
     "extraLinks": [],
     "client": "Dirgodaz Amol, Iran",
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
-    "tasks": [],
+    "tasks": [
+      "My Tasks: Board Circuit Design 50% | PCB Design 100% | Firmware 100% | Panel Integration 50% | Wiring 100% | System Testing 50%"
+    ],
   },
   {
     "title": "Wireless Temperature Monitoring for 3 Gas Furnaces with Graphs in LabVIEW",
