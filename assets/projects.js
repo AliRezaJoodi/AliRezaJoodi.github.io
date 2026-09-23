@@ -152,7 +152,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "Remote",
     "tasks": [
-      "My Tasks: Hardware Design 50% | PCB Design 100%"
+      "My Tasks: Circuit Design 50% | PCB Design 100%"
     ],
   },
   {
@@ -172,7 +172,7 @@ window.PROJECT_DATA = [
     "clientUrl": "",
     "workType": "Remote",
     "tasks": [
-      "My Tasks: Hardware Design 50% | PCB Design 100%"
+      "My Tasks: Circuit Design 50% | PCB Design 100%"
     ],
   },
   {
@@ -191,24 +191,20 @@ window.PROJECT_DATA = [
     "clientUrl": "",
     "workType": "Remote",
     "tasks": [
-      "My Tasks: Hardware Design 50% | PCB Design 100%"
+      "My Tasks: Circuit Design 50% | PCB Design 100%"
     ],
   },
   {
-    "title": "Induction Heating, Controlled with PDM, 30KW",
+    "title": "Induction Heating, 30KW, 3-Phase, Full-Bridge, Controlled with PDM",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/Alcora_InductionHeating_ControlledWithPDM_30KW/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/Alcora_InductionHeating_ControlledWithPDM_30KW/Album.jpg",
-    "details": [
-      "3-Phase AC",
-      "Full-bridge",
-      "Power controller with PDM"
-    ],
+    "details": [],
     "extraLinks": [],
     "client": "Alborz Amol, Iran",
     "clientUrl": "",
     "workType": "On-site",
     "tasks": [
-      "My Tasks: Parts Preparation | Build | Wiring"
+      "My Tasks: Parts Preparation 100% | Panel Integration 100% | Wiring 100%"
     ],
   },
   {
@@ -238,7 +234,7 @@ window.PROJECT_DATA = [
     "clientUrl": "",
     "workType": "Remote",
     "tasks": [
-      "My Tasks: Hardware Design 20% | AVR Programming 100%"
+      "My Tasks: Circuit Design 20% | Firmware 100%"
     ],
   },
   {
@@ -251,16 +247,14 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 90% | PCB Design 100%"
+      "My Tasks: Circuit Design 90% | PCB Design 100%"
     ],
   },
   {
-    "title": "Induction Heating, 30KW, Mode2",
+    "title": "Induction Heating, 30KW, 3-Phase, Half-Bridge, Mode2",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_30KW_Model2/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_30KW_Model2/Album.jpg",
     "details": [
-      "3-Phase",
-      "Half-Bridge",
       "Power Controller with Phase Dimmer"
     ],
     "extraLinks": [],
@@ -270,12 +264,10 @@ window.PROJECT_DATA = [
     "tasks": [],
   },
   {
-    "title": "Induction Heating, 30KW, Mode1",
+    "title": "Induction Heating, 30KW, 3-Phase, Half-Bridge, Mode1",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_30KW_Model1/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_30KW_Model1/Album.jpg",
     "details": [
-      "3-Phase",
-      "Half-Bridge",
       "Power Controller with Phase Dimmer"
     ],
     "extraLinks": [],
@@ -285,12 +277,10 @@ window.PROJECT_DATA = [
     "tasks": [],
   },
   {
-    "title": "Induction Heating, 50KW",
+    "title": "Induction Heating, 50KW, 3-Phase, Full-Bridge",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_50KW/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_50KW/Album.jpg",
     "details": [
-      "3-Phase",
-      "Full-Bridge",
       "Power Controller with Phase Dimmer"
     ],
     "extraLinks": [],
@@ -300,12 +290,10 @@ window.PROJECT_DATA = [
     "tasks": [],
   },
   {
-    "title": "Induction Heating, 10KW",
+    "title": "Induction Heating, 10KW, 1-Phase, Half-Bridge",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_10KW/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_10KW/Album.jpg",
     "details": [
-      "1-Phase",
-      "Half-Bridge",
       "Power Controller with Phase Dimmer"
     ],
     "extraLinks": [],
@@ -327,7 +315,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 100% | PCB Design 100% | AVR Programming 100%"
+      "My Tasks: Circuit Design 100% | PCB Design 100% | Firmware 100%"
     ],
   },
   {
@@ -343,7 +331,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 25% | PCB Design 100%"
+      "My Tasks: Circuit Design 25% | PCB Design 100%"
     ],
   },
   {
@@ -359,7 +347,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 25% | PCB Design 100%"
+      "My Tasks: Circuit Design 25% | PCB Design 100%"
     ],
   },
   {
@@ -374,7 +362,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 25% | PCB Design 100%"
+      "My Tasks: Circuit Design 25% | PCB Design 100%"
     ],
   },
   {
@@ -426,7 +414,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 30% | PCB Design 100%"
+      "My Tasks: Circuit Design 30% | PCB Design 100%"
     ],
   },
   {
@@ -446,7 +434,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 30% | PCB Design 100%"
+      "My Tasks: Circuit Design 30% | PCB Design 100%"
     ],
   },
   {
@@ -461,7 +449,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 50% | PCB Design 100% | AVR Programming 100%"
+      "My Tasks: Circuit Design 50% | PCB Design 100% | Firmware 100%"
     ],
   },
   {
@@ -495,7 +483,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 50% | PCB Design 100%"
+      "My Tasks: Circuit Design 50% | PCB Design 100%"
     ],
   },
   {
@@ -640,7 +628,7 @@ window.PROJECT_DATA = [
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
     "tasks": [
-      "My Tasks: Hardware Design 80% | PCB Design 100% | AVR Programming 100%"
+      "My Tasks: Circuit Design 80% | PCB Design 100% | Firmware 100%"
     ],
   },
   {
