@@ -198,7 +198,9 @@ window.PROJECT_DATA = [
     "title": "Induction Heating, 30KW, 3-Phase, Full-Bridge, Controlled with PDM",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/Alcora_InductionHeating_ControlledWithPDM_30KW/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/Alcora_InductionHeating_ControlledWithPDM_30KW/Album.jpg",
-    "details": [],
+    "details": [
+      "Note: Power topology and pulse-control design done by my colleague"
+    ],
     "extraLinks": [],
     "client": "Alborz Amol, Iran",
     "clientUrl": "",
@@ -255,39 +257,48 @@ window.PROJECT_DATA = [
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_30KW_Model2/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_30KW_Model2/Album.jpg",
     "details": [
-      "Power Controller with Phase Dimmer"
+      "Power Controller with Phase Dimmer",
+      "Note: Power topology and pulse-control design done by my colleague"
     ],
     "extraLinks": [],
     "client": "Dirgodaz Amol, Iran",
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
-    "tasks": [],
+    "tasks": [
+      "My Tasks: Board Circuit Design 50% | PCB Design 100% | Panel Integration 100% | Wiring 100% | System Testing 50%"
+    ],
   },
   {
     "title": "Induction Heating, 30KW, 3-Phase, Half-Bridge, Mode1",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_30KW_Model1/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_30KW_Model1/Album.jpg",
     "details": [
-      "Power Controller with Phase Dimmer"
+      "Power Controller with Phase Dimmer",
+      "Note: Power topology and pulse-control design done by my colleague"
     ],
     "extraLinks": [],
     "client": "Dirgodaz Amol, Iran",
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
-    "tasks": [],
+    "tasks": [
+      "My Tasks: Board Circuit Design 50% | PCB Design 100% | Firmware 100% | Panel Integration 100% | Wiring 100% | System Testing 50%"
+    ],
   },
   {
     "title": "Induction Heating, 50KW, 3-Phase, Full-Bridge",
     "url": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/blob/main/Projects/DirgodazAmol_InductionHeating_50KW/ReadMe.md",
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_InductionHeating_50KW/Album.jpg",
     "details": [
-      "Power Controller with Phase Dimmer"
+      "Power Controller with Phase Dimmer",
+      "Note: Power topology and pulse-control design done by my colleague"
     ],
     "extraLinks": [],
     "client": "Dirgodaz Amol, Iran",
     "clientUrl": "https://dirgodazamol.com/en/",
     "workType": "On-Site",
-    "tasks": [],
+    "tasks": [
+      "My Tasks: Board Circuit Design 50% | PCB Design 100% | Firmware 100% | Panel Integration 50% | Wiring 50% | System Testing 50%"
+    ],
   },
   {
     "title": "Induction Heating, 10KW, 1-Phase, Half-Bridge",

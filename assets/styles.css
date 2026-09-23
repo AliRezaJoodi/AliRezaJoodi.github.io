@@ -346,6 +346,9 @@ h1.name .experience {
   padding: 4px 9px;
   font-weight: 500;
 }
+.info-badge-tasks {
+  flex-basis: 100%;
+}
 
 .card-variants {
   display: flex;

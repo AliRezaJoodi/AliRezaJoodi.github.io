@@ -100,7 +100,7 @@
     }
     if (p.tasks && p.tasks.length) {
       infoBadges += p.tasks.map(function (t) {
-        return '<span class="info-badge">' + esc(t) + '</span>';
+        return '<span class="info-badge info-badge-tasks">' + esc(t) + '</span>';
       }).join('');
     }
 
