@@ -322,7 +322,8 @@ window.PROJECT_DATA = [
     "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/DirgodazAmol_TemperatureMonitoring_3GasFurnaces_Wireless/Album.jpg",
     "details": [
       "Wireless communication using NRF24L01 module.",
-      "Compatible with various thermocouple types (S, B, and K)"
+      "Compatible with various thermocouple types (S, B, and K)",
+      "Note: LabVIEW graphical software developed by my colleague."
     ],
     "extraLinks": [],
     "client": "Dirgodaz Amol, Iran",
