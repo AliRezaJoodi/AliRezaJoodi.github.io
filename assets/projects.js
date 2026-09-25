@@ -662,6 +662,51 @@ window.PROJECT_DATA = [
     ],
   },
   {
+    "title": "PIC Microcontroller Projects Collection on GitHub",
+    "url": "https://github.com/AliRezaJoodi/PIC_Projects/tree/main",
+    "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/PIC_Projects.jpg",
+    "details": [
+      "A collection of training projects based on PIC MCU"
+    ],
+    "extraLinks": [],
+    "client": "Personal",
+    "clientUrl": "",
+    "workType": "Self-Initiated",
+    "tasks": [
+      "My Tasks: 100%"
+    ],
+  },
+  {
+    "title": "8051 Microcontroller Projects Collection on GitHub",
+    "url": "https://github.com/AliRezaJoodi/8051_Projects/tree/main",
+    "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/8051_Projects.jpg",
+    "details": [
+      "A collection of training projects based on 8051 MCU"
+    ],
+    "extraLinks": [],
+    "client": "Personal",
+    "clientUrl": "",
+    "workType": "Self-Initiated",
+    "tasks": [
+      "My Tasks: 100%"
+    ],
+  },
+  {
+    "title": "Electronics Projects Collection on GitHub",
+    "url": "https://github.com/AliRezaJoodi/Electronics_Projects/tree/main",
+    "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/Electronics_Projects.jpg",
+    "details": [
+      "A collection of training electronics projects"
+    ],
+    "extraLinks": [],
+    "client": "Personal",
+    "clientUrl": "",
+    "workType": "Self-Initiated",
+    "tasks": [
+      "My Tasks: 100%"
+    ],
+  },
+  {
     "title": "Humidity to 4-20mA Conversion",
     "url": "https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Converter_HumidityTo4-20mA_SHT10",
     "image": "https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Converter_HumidityTo4-20mA_SHT10/Pictures/Album.png",
