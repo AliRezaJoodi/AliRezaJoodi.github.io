@@ -647,6 +647,21 @@ window.PROJECT_DATA = [
     ],
   },
   {
+    "title": "AVR Microcontroller Projects Collection on GitHub",
+    "url": "https://github.com/AliRezaJoodi/AVR_Projects/tree/main",
+    "image": "https://github.com/AliRezaJoodi/AliRezaJoodi.github.io/raw/main/Projects/AVR_Projects.jpg",
+    "details": [
+      "A collection of training projects based on AVR MCU"
+    ],
+    "extraLinks": [],
+    "client": "Personal",
+    "clientUrl": "",
+    "workType": "Self-Initiated",
+    "tasks": [
+      "My Tasks: 100%"
+    ],
+  },
+  {
     "title": "Humidity to 4-20mA Conversion",
     "url": "https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Converter_HumidityTo4-20mA_SHT10",
     "image": "https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Converter_HumidityTo4-20mA_SHT10/Pictures/Album.png",
